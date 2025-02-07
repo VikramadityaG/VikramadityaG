@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Swift and IOS Development
 - 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/vikramaditya-gaikwad/)
-- - 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love playing video games.
 
 <!---
